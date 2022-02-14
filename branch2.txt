@@ -1,1 +1,3 @@
 Hi!I am branch2
+second line written in branch1  
+from branch2
