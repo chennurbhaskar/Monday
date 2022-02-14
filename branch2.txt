@@ -1,1 +1,2 @@
 Hi!I am branch2
+from branch2
